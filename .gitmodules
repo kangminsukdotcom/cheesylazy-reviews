@@ -1,2 +1,5 @@
 [submodule "themes/bridget"]
 	path = themes/bridget
+[submodule "themes/bridget-f"]
+	path = themes/bridget-f
+	url = https://github.com/kangminsukdotcom/bridget
