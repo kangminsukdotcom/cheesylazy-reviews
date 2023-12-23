@@ -19,4 +19,4 @@ unifiedAlt: ''
 치지레이지가 받은 사랑을 최대한 오래 기억하고 싶다. 그래서 일단 치지레이지 리뷰 모음 웹사이트를 만들었다. 나만의 방식으로 '영업 종료'를 기념하고 나서야 내 삶의 한 챕터가 끝났음을 실감한다.
 
 ### Credits
-[Bridget ↗](https://github.com/Sped0n/bridget)
+Bridget[↗](https://github.com/Sped0n/bridget)
