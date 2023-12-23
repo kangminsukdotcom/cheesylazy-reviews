@@ -18,5 +18,7 @@ unifiedAlt: ''
 
 치지레이지가 받은 사랑을 최대한 오래 기억하고 싶다. 나만의 방식으로 '영업 종료'를 기념하고 싶다. 그래서 홀린 듯 치지레이지 리뷰 모음 웹사이트를 만들었다.
 
+2023-12-24
+
 ### Credits
 Bridget[↗](https://github.com/Sped0n/bridget)
