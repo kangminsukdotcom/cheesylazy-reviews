@@ -1,0 +1,10 @@
+[next]
+other = "nächste"
+[prev]
+other = "vorher"
+[close]
+other = "schließen"
+[threshold]
+other = "schwelle"
+[404]
+other = "seite nicht gefunden"

@@ -1,0 +1,11 @@
+baseURL = ""
+languageCode = "en-us"
+title = "Kang"
+theme = "Bridget"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+dateFormat = "2006-01-02"
+email = "kang@cheesylazy.com"
+
+[params]
+  description = "치지레이지."
