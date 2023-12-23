@@ -6,7 +6,7 @@ menu:
   main:
     weight: 4
     identifier: letter
-    title: 편지
+    title: 💌
 unifiedAlt: ''
 ---
 안녕하세요. 
