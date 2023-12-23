@@ -3,7 +3,7 @@ timeout = "1200s"
 # your website url
 baseURL = 'https://www.example.com/'
 # website title
-title = '치지레이지 손님에게 사랑한다는 말 하고 싶습니다.'
+title = '치지레이지 CHEESYLAZY.'
 # don't touch this
 disableKinds = ["section", "taxonomy", "term", "home"]
 # robots.txt
